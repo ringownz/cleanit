@@ -140,5 +140,3 @@ tests/test_paths.py .                                                           
 ```
 
 
-
-In case of doubt, feel free to contact: **João Ribeiro** <joao.martins.ribeiro@devoteam.com>
